@@ -1,0 +1,14 @@
+{
+  "name": "nota-api",
+  "version": "1.0.0",
+  "description": "API para gerenciamento de notas",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.12.3",
+    "dotenv": "^8.2.0"
+  }
+}
